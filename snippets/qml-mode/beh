@@ -1,0 +1,5 @@
+#name : beh
+# --
+Behavior on $1{
+				 $2
+}

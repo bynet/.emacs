@@ -1,0 +1,4 @@
+#name : nui 
+#group : meta
+# --
+<div ui-view$1></div>

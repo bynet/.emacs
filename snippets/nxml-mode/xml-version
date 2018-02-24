@@ -1,0 +1,6 @@
+# contributor: Renaud Aubin <cihangir.zengin@gmail.com>
+# name: <?xml version="1.0" ... />
+# condition: (string= (file-name-extension (buffer-name)) "xml")
+# key: version
+# --
+<?xml version="1.0" encoding="utf-8"?>

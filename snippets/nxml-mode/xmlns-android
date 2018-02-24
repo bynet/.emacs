@@ -1,0 +1,6 @@
+# contributor: Renaud Aubin <cihangir.zengin@gmail.com>
+# name:  xmlns:android="http://schemas.android.com/apk/res/android"
+# condition: (string= (file-name-extension (buffer-name)) "xml")
+# key: xmlns 
+# --
+xmlns:android="http://schemas.android.com/apk/res/android"

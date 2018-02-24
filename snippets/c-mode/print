@@ -1,0 +1,4 @@
+#name : Ing_Print(..., ...);
+# key: prn 
+# --
+Ing_Print("$0");

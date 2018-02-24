@@ -1,0 +1,6 @@
+# contributor: Cihangir Zengin <cihangir.zengin@gmail.com>
+# condition: (string= (file-name-extension (buffer-name)) "c")
+# name : sqlite3
+# key: sql 
+# --
+sqlite3

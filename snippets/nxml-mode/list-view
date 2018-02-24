@@ -1,0 +1,9 @@
+# contributor: Cihangir Zengin <cihangir.zengin@gmail.com>
+# name: <ListView ... />
+# condition: (string= (file-name-extension (buffer-name)) "xml")
+# key: listview
+# --
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:id="@android:id/$0"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"/>

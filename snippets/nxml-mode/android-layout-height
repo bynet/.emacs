@@ -1,0 +1,6 @@
+# contributor: Cihangir Zengin <cihangir.zengin@gmail.com>
+# name: android:layout_height="wrap_content"
+# condition: (string= (file-name-extension (buffer-name)) "xml")
+# key: lh
+# --
+android:layout_height="$0wrap_content"

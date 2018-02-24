@@ -1,0 +1,10 @@
+# contributor: Cihangir Zengin <cihangir.zengin@gmail.com>
+# name: <Button ... />
+# condition: (string= (file-name-extension (buffer-name)) "xml")
+# key: btn
+# --
+<Button
+        android:text="$1"
+        android:onClick="$0"
+        android:layout_width="${2:match_parent}"
+        android:layout_height="${3:wrap_content}"/>

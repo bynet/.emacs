@@ -1,0 +1,4 @@
+# name: memset(..., ..., ...);
+# key: memset
+# --
+memset( $1 , 0 , sizeof($2) );

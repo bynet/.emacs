@@ -1,0 +1,6 @@
+# contributor: Cihangir Zengin <cihangir.zengin@gmail.com>
+# name: android:layout_width="match_parent"
+# condition: (string= (file-name-extension (buffer-name)) "xml")
+# key: lw
+# --
+android:layout_width="$0match_parent"

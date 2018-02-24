@@ -1,0 +1,5 @@
+#name : rect
+# --
+Rectangle{
+				$0
+}
