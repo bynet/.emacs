@@ -12,7 +12,6 @@
                '("melpa" . "https://melpa.org/packages/") t))
 
 (org-babel-load-file "~/.emacs.d/horoz.org")
-
 ;; (load "~/.emacs.d/test.el")
 
 
