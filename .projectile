@@ -12,4 +12,7 @@ heroku
 recentf
 abbrev_defs
 /semanticdb
+-**/.externalNativeBuild
+make-android/app/.externalNativeBuild
+
 
